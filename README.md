@@ -34,7 +34,7 @@ The dashboard converts occupation-level data into a visual decision-support tool
 ## 📷 Dashboard Preview
 
 ### Workforce Overview
-![Workforce Overview](./Screenshot%202026-09-01%20114419.jpg)
+![Workforce Overview](./Screenshot%202026-09-01%20114419.png)
 
 ### Career Impact Explorer
 ![Career Impact Explorer](./Screenshot%202026-09-01%20114436.png)
