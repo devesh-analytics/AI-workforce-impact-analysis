@@ -1,18 +1,18 @@
 # 🤖 AI Impact on Jobs | Power BI
 
 ## 📌 Project Overview
-Artificial Intelligence is changing how different occupations may be performed.[cite: 1] This project examines whether AI is more likely to automate tasks, augment workers, or have a disruptive or resistant impact across occupations.[cite: 1]
+Artificial Intelligence is changing how different occupations may be performed. This project examines whether AI is more likely to automate tasks, augment workers, or have a disruptive or resistant impact across occupations.
 
 ## 🎯 Project Objective
-The objective was to analyze AI-related job indicators and convert them into an interactive Power BI dashboard that helps users compare occupations and understand potential workforce impact.[cite: 1]
+The objective was to analyze AI-related job indicators and convert them into an interactive Power BI dashboard that helps users compare occupations and understand potential workforce impact.
 
 ## 🛠️ Tools & Technologies
-- **Power BI** – Dashboard development and data visualization[cite: 1]
-- **Microsoft Excel** – PivotTable analysis and dataset management[cite: 1]
-- **DAX** – Measures and interactive report logic[cite: 1]
+- **Power BI** – Dashboard development and data visualization
+- **Microsoft Excel** – PivotTable analysis and dataset management
+- **DAX** – Measures and interactive report logic
 
 ## 📊 Dataset & Metrics
-The analysis covered 1,000 occupations.[cite: 1]
+The analysis covered 1,000 occupations.
 
 | Metric | Value |
 |---|---:|
@@ -23,13 +23,13 @@ The analysis covered 1,000 occupations.[cite: 1]
 | Average Augmentation Potential | 40.94 | 
 
 ## 🔍 Key Insights
-- AI exposure and AI adoption are different measures; high exposure does not automatically mean high current adoption.[cite: 1]
-- Augmentation potential (40.94) is higher than automation potential (25.59) in this dataset.[cite: 1]
-- AI impact varies across occupations, so occupation-level analysis adds useful context.[cite: 1]
-- The AI Impact Category groups occupations as AI Augmented, AI Disrupted, or AI Resistant.[cite: 1]
+- AI exposure and AI adoption are different measures; high exposure does not automatically mean high current adoption.
+- Augmentation potential (40.94) is higher than automation potential (25.59) in this dataset.
+- AI impact varies across occupations, so occupation-level analysis adds useful context.
+- The AI Impact Category groups occupations as AI Augmented, AI Disrupted, or AI Resistant.
 
 ## 💡 Business Value
-The dashboard converts occupation-level data into a visual decision-support tool for exploring workforce trends, comparing occupations, and understanding AI-related career impact.[cite: 1]
+The dashboard converts occupation-level data into a visual decision-support tool for exploring workforce trends, comparing occupations, and understanding AI-related career impact.
 
 ## 📷 Dashboard Preview
 
