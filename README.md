@@ -34,10 +34,10 @@ The dashboard converts occupation-level data into a visual decision-support tool
 ## 📷 Dashboard Preview
 
 ### Workforce Overview
-dashboard-1.png
+![Workforce Overview](./dashboard-1.png)
 
 ### Career Impact Explorer
-dashboard-2.png
+![Career Impact Explorer](./dashboard-2.png)
 
 ## 📁 Project Files
 
